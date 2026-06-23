@@ -251,7 +251,7 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 <div class="sidebar" id="sidebar">
     <div class="sidebar-header">
         <i class="fas fa-hospital-user" style="font-size: 3rem; margin-bottom: 10px;"></i>
-        <h4>RS Online</h4>
+        <h4>Diskiee Hospital</h4>
         <p>Sistem Pendaftaran Pasien</p>
     </div>
     
